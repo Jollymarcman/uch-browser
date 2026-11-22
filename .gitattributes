@@ -1,0 +1,2 @@
+site/Build/*.data filter=lfs diff=lfs merge=lfs -text
+site/Build/*.wasm filter=lfs diff=lfs merge=lfs -text
